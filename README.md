@@ -77,4 +77,4 @@ By completing this lab, I was able to:
 - Use online tools to validate IP/domain reputation and catch phishing attempts
 
 ## Author
-Rushikesh38-bit
+akshadmahajan7
